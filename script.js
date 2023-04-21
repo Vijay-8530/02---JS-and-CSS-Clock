@@ -2,7 +2,7 @@
 const secondHand = document.querySelector('.second-hand')
 const minHand = document.querySelector('.min-hand')
 const hourhand = document.querySelector('.hour-hand')
-console.log(secondHand,minHand,hourhand)
+// console.log(secondHand,minHand,hourhand)
 const setDate = () => {
     // console.log('hello','hi')
     const now = new Date()
